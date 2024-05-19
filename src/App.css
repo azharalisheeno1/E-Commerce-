@@ -1,0 +1,16 @@
+.bgimage{
+  background-image: url('../src/assets/hero1.jpg');
+  border-radius: 20px;
+  
+}
+.img2{
+  background-image: url('../src/assets/hero__2.jpg');
+  border-radius: 20px;
+
+
+}
+.img3{
+  background-image: url('../src/assets/hero__3.webp');
+  border-radius: 20px;
+
+}
